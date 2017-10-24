@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>comp1110.ass2</OriginalElement>
+  <nodes>
+    <node x="-799.1428571428568" y="8.28571428571422">comp1110.ass2.Origin</node>
+    <node x="-386.28571428571416" y="-551.5714285714286">comp1110.ass2.LinkGame</node>
+    <node x="16.85714285714289" y="53.57142857142861">comp1110.ass2.PlacementValidTest</node>
+    <node x="376.1428571428569" y="-121.57142857142861">comp1110.ass2.PlacementWellFormedTest</node>
+    <node x="20.428571428571217" y="-115.85714285714289">comp1110.ass2.PegsForPiecePlacementTest</node>
+    <node x="156.57142857142833" y="240.85714285714295">comp1110.ass2.SolutionsTest</node>
+    <node x="21.142857142856997" y="-551.7142857142857">comp1110.ass2.TestUtility</node>
+    <node x="-333.2857142857141" y="52.14285714285705">comp1110.ass2.Orientation</node>
+    <node x="-587.1428571428571" y="616.5714285714286">comp1110.ass2.gui</node>
+    <node x="-839.1428571428571" y="-553.1428571428571">comp1110.ass2.Unit</node>
+    <node x="-321.9999999999999" y="-349.2857142857142">comp1110.ass2.Piece</node>
+    <node x="334.42857142857133" y="55.571428571428555">comp1110.ass2.PiecePlacementWellFormedTest</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="comp1110.ass2.Piece" target="comp1110.ass2.Unit">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="comp1110.ass2.Origin" target="comp1110.ass2.Unit">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="comp1110.ass2.Piece" target="comp1110.ass2.Origin">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="-19.71428571428578" y="-79.85714285714289" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
